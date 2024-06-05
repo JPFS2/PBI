@@ -29,9 +29,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if ($result->num_rows > 0) {
         echo "Login bem-sucedido!";
         // Aqui você pode redirecionar o usuário para outra página
-        header("Location: index.html");
+        header("Location: home.html");
     } else {
         echo "Nome de usuário ou senha incorretos.";
+        header("Location: index.html");
     }
 
     $stmt->close();
