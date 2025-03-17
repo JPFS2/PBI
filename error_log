@@ -1,0 +1,5 @@
+[28-Feb-2025 15:12:36 America/Fortaleza] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'pbi'@'localhost' (using password: YES) in /home1/thewaysi/eap.thewaysistemas.com.br/login.php on line 11
+[28-Feb-2025 15:13:40 America/Fortaleza] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'pbi'@'localhost' (using password: YES) in /home1/thewaysi/eap.thewaysistemas.com.br/login.php on line 11
+[28-Feb-2025 15:14:10 America/Fortaleza] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'pbi'@'server24.rapidcloud.com.br' (using password: YES) in /home1/thewaysi/eap.thewaysistemas.com.br/login.php on line 11
+[28-Feb-2025 15:18:17 America/Fortaleza] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'pbi@thewaysistemas.com'@'localhost' (using password: YES) in /home1/thewaysi/eap.thewaysistemas.com.br/login.php on line 11
+[28-Feb-2025 15:28:35 America/Fortaleza] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'pbi@thewaysistemas.com'@'localhost' (using password: YES) in /home1/thewaysi/eap.thewaysistemas.com.br/login.php on line 11
